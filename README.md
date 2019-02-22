@@ -279,6 +279,10 @@
  - MobileNet
  - RetinaNet
 
++ 人脸检测识别
+ - 人脸检测
+ - 人脸识别
+
 + 图像分割算法
   - Unet,3DUnet
   - FCN

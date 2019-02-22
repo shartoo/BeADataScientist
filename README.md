@@ -345,8 +345,12 @@
 + 常用算法
   - 协同过滤
   - 矩阵分解
-  - CRF
+  - FM
+  - FFM
   - 聚类算法
+  - SVD,SVD+
+  - xgboost
+  - 逻辑回归
 
 + 深度学习方法
   - Tensorflow deep and wide

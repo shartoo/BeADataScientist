@@ -115,7 +115,7 @@
 #### 2.3.4 图像处理
 
 
-+ 图像金字塔
++ [图像金字塔](https://shartoo.github.io/image-pramid/)
 + SIFT特征
 + SURF特征
 + HOG特征

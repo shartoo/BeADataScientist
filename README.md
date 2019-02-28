@@ -333,7 +333,7 @@
 
 + Netron
 + TensorSpace
-+ caffe网络可视化
++ [caffe网络可视化](https://ethereon.github.io/netscope/#/editor)
 
 ### 2.6 数据搜索,推荐|搜索引擎设计，搜索系统，SEO，推荐系统
 

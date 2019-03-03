@@ -120,7 +120,7 @@
 + SURF特征
 + HOG特征
 + LAB特征
-+ Haar特征
++ [Haar特征](https://shartoo.github.io/img-haar-feature/)
 + 轮廓
 + 边缘
 + 梯度

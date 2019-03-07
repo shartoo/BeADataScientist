@@ -248,7 +248,8 @@
 ### 4.3 Java Mahout使用
 ### 4.4 python sklean使用
 
-+ ![sklearn机器学习总览](https://raw.github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_ml.svg?sanitize=true)
+
++ <img src="https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_ml.svg?sanitize=true">
 
 + [sklean 特征工程总览](https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_feature_eng.svg)
 

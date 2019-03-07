@@ -251,7 +251,7 @@
 
 + <img src="https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_ml.svg?sanitize=true">
 
-+ <img src=https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_feature_eng.svg?sanitize=true">
++ <img src="https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_feature_eng.svg?sanitize=true">
 
 ### 4.5 自然语言处理
 

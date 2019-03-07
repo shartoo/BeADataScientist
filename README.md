@@ -272,14 +272,27 @@
   
 #### 2.4.7 深度学习图像算法
 
-+ 分类定位算法
- - FasterRCNN
- - SSD
- - Yolo1-3
- - MobileNet
+**分类定位网络**
++ FasterRCNN
+ - (RCNN,FastRCNN,SPP到FasterRCNN)[https://shartoo.github.io/RCNN-series/]
++ SSD 
+   - [SSD 理解 medium](https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
+   - [SSD 代码解析](https://shartoo.github.io/SSD_detail/)
+
+**YOLO**
+  - yolov1
+  - yolov2
+  - yolov3
+
+**MobileNet**
+ - MobileNetv1
+ - MobileNetv2
+
+
  - RetinaNet
 
-+ 人脸检测识别
+**人脸检测识别**
+
  - 人脸检测
  - 人脸识别
 

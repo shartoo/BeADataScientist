@@ -404,19 +404,22 @@
 + Netron
 + TensorSpace
 + [caffe网络可视化](https://ethereon.github.io/netscope/#/editor)
++ [网络结构可视化 alexnet](http://scs.ryerson.ca/~aharley/vis/conv/)
++ [彩色网络架构可视化alexnet为例](http://alexlenail.me/NN-SVG/LeNet.html)
++ [网络架构可视化](https://github.com/HarisIqbal88/PlotNeuralNet)
 
-## 2.6 数据搜索,推荐|搜索引擎设计，搜索系统，SEO，推荐系统
+## 6 数据搜索,推荐|搜索引擎设计，搜索系统，SEO，推荐系统
 
-### 2.6.1 搜索引擎
+### 6.1 搜索引擎
 
 + Lucene使用
 + Lucene设计
 + ElasticSearch使用
 + ElasticSearch设计
 
-### 2.6.2 搜索引擎设计原理
-### 2.6.3 SEO优化简要
-### 2.6.4 推荐系统
+### 6.2 搜索引擎设计原理
+### 6.3 SEO优化简要
+### 6.4 推荐系统
 
 + 常用算法
   - 协同过滤
@@ -434,9 +437,9 @@
 + 推荐系统冷启动问题
 
 
-## 2.7 系统实现
+## 7 系统实现
 
-### 2.7.1  Java web构建服务
+### 7.1  Java web构建服务
 
 
 

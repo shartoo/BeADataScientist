@@ -268,12 +268,44 @@
 
 ### 4.6 语音算法
  
+#### 4.6.1 基础语音算法
+
 + GMM-HMM模型
 + DNN-HMM模型
 
-+ 语音合成开源
-  - 传统方法：Merlin,Ossian
-  - 深度学习方法: tacoron,wavenet,FloWaveNet
+#### 4.6.2 语音合成基础理论
+
+[语音合成步骤](https://shartoo.github.io/texttospeech/)
+
+#### 4.6.3 开源语音合成框架
+
+
+**merlin**
+
++ merlin 论文[原文](http://www.cstr.ed.ac.uk/downloads/publications/2016/Merlin_demo_paper.pdf)
++ merlin 理论体系
+  - [merlin语音合成讲义一：技术路线概览](https://shartoo.github.io/merlin-tts-techmap1/)
+  - [merlin语音合成讲义二：如何构建系统之数据准备](https://shartoo.github.io/merlin-tts-techmap2/)
+  - [merlin语音合成讲义三：系统回归](https://shartoo.github.io/merlin-tts-techmap3/)
+
++ merlin 实战
+  - [使用merlin从头构建你的声音](https://shartoo.github.io/merlin-tts/)
+  - [使用merlin mandarin voice过程](https://shartoo.github.io/merlin-mandain-voice-op/)
+
++ merlin代码解析
+  - [merlin使用 xmind](http://www.xmind.net/m/tbbW)
+  - [merlin全局代码架构 xmind](http://www.xmind.net/m/mRkg)
+  - [merlin s1目录架构 xmind])(http://www.xmind.net/m/RgMa)
+  - [merlin misc 代码架构 xmind](http://www.xmind.net/m/S3av)
+  - [merlin src目录xmind](http://www.xmind.net/m/zkmS)
+  - [merlin src-fronted目录 xmind](http://www.xmind.net/m/2bpe)
+  - [merlin src-run_merlin.py 逻辑说明 xmind](http://www.xmind.net/m/fhZK)
+  - [merlin-egs-mandarin-voice 概率 xmind](http://www.xmind.net/m/Fy9z)
+  
+  
+
+#### 4.6.3 开源语音识别框架
+
 + 语音识别开源
    - kaldi
 

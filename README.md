@@ -295,7 +295,7 @@
 + merlin代码解析
   - [merlin使用 xmind](http://www.xmind.net/m/tbbW)
   - [merlin全局代码架构xmind](http://www.xmind.net/m/mRkg)
-  - [merlin s1目录架构xmind])(http://www.xmind.net/m/RgMa)
+  - [merlin s1目录架构xmind](http://www.xmind.net/m/RgMa)
   - [merlin misc 代码架构 xmind](http://www.xmind.net/m/S3av)
   - [merlin src目录xmind](http://www.xmind.net/m/zkmS)
   - [merlin src-fronted目录 xmind](http://www.xmind.net/m/2bpe)

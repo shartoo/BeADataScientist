@@ -118,8 +118,6 @@
 
 + [图像金字塔](https://shartoo.github.io/image-pramid/)
 + SIFT特征
- <iframe src='https://www.xmind.net/embed/GrpY/' width='750' height='540' frameborder='0' scrolling='no' allowfullscreen="true"></iframe>
-
 + SURF特征
 + HOG特征
 + LAB特征

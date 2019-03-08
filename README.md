@@ -127,10 +127,10 @@
 + 梯度
 + 角点检测
 + 模板匹配
-
++ [图像二值化方法](http://www.xmind.net/m/5Wgf)
 <br>
 
-+ python opencv使用
++ [python opencv使用 xmind](http://www.xmind.net/m/dMye)
   - 图像变换
   - 几何变换
   - hough直线变换
@@ -142,7 +142,10 @@
   - 形态学操作
   - 图像梯度
   - 图像平滑
-  - 
+  
++ [python opencv 特征提取 xmind](http://www.xmind.net/m/Ef6Z)
++ [python opencv 计算机摄影学 xmind](http://www.xmind.net/m/AEdb)
++ [python opencv 所有模块概览 xmind](http://www.xmind.net/m/xSD8)
 
 + 医学影像处理
  
@@ -316,6 +319,12 @@
 
 ### 4.7 传统图像算法
 
++ [运动目标检测xmind](http://www.xmind.net/m/nk9G)
++ [python opencv中的机器学习算法](http://www.xmind.net/m/gvXh)
+  - knn  ocr
+  - svm ocr
+  - kmeans
+
 ### 4.8 深度学习图像算法
 
 **分类定位网络**
@@ -362,11 +371,12 @@
 + 图像分割
 + 特征检测
 + 追踪
-+ 图像中的机器学习算法
+
++ [图像中的机器学习算法](http://www.xmind.net/m/nm89)
    - KNN
    - SVM
    - Kmeans
-
++ [python opencv 视频分析xmind](http://www.xmind.net/m/DA3x)
 
 ## 5 可视化展现
 

@@ -280,6 +280,7 @@
 #### 4.6.2 语音合成基础理论
 
 [语音合成步骤](https://shartoo.github.io/texttospeech/)
+[语音合成技术总结 xmind笔记](http://www.xmind.net/m/NMFv)
 
 #### 4.6.3 开源语音合成框架
 

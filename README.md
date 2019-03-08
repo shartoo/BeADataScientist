@@ -251,7 +251,11 @@
 
 + <img src="https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_ml.svg?sanitize=true">
 
++ [sklearn 机器学习原图xmind](http://www.xmind.net/m/BNg7)
+
+
 + <img src="https://github.com/shartoo/BeADataScientist/blob/master/data/images/sklearn_feature_eng.svg?sanitize=true">
++ [sklearn 特征工程原图xmind](http://www.xmind.net/m/Jb2Y)
 
 ### 4.5 自然语言处理
 

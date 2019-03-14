@@ -117,7 +117,7 @@
 
 
 + [图像金字塔](https://shartoo.github.io/image-pramid/)
-+ SIFT特征
++ SIFT特征 : [图像SIFT特征](https://shartoo.github.io/SIFT-feature/)
 + SURF特征
 + HOG特征
 + LAB特征
@@ -226,26 +226,41 @@
 
 ### 4.1 机器学习算法
 
+#### 4.1.1 分类算法
+
 + 决策树: ID3,C4.5,剪枝,熵，不纯度,回归树和分类树
-+ 随机森林
-+ 频繁模式挖掘：apiri算法，FP-growth算法
++ 贝叶斯分类
++ SVM分类
 + 线性回归
 + Logistic回归
 + KNN
+
+#### 4.1.2 聚类算法
+
 + K-mean：多种kmean
++ 矩阵分解
+
+#### 4.1.2 数据压缩算法
+
++ 主成分分析
+
+#### 4.1.3 其他
+
++ 随机森林
++ 频繁模式挖掘：apiri算法，FP-growth算法
+
+
 + EM：[结合HMM算法](https://www.jianshu.com/p/a3572391a42d)
-+ 贝叶斯分类
-+ SVM分类
+
 + [集成学习](https://www.cnblogs.com/infaraway/p/7890558.html),[参考](https://www.cnblogs.com/willnote/p/6801496.html)
   -  [Boosting](https://www.cnblogs.com/willnote/p/6801496.html): AdaBoost,[GBDT](https://www.cnblogs.com/peizhe123/p/5086128.html),[XGBoost](https://blog.csdn.net/sb19931201/article/details/52557382)
   - Bagging: 随机森林
   - LightGBM:[原理](https://www.cnblogs.com/nxf-rabbit75/p/9748292.html),[代码](https://www.cnblogs.com/wanglei5205/p/8722237.html)
 
 + 线性判别分析
-+ 主成分分析
 + EM算法
 + 遗传算法
-+ 矩阵分解
+
 
 ### 4.2 Java Weka使用
 ### 4.3 Java Mahout使用
@@ -328,8 +343,7 @@
 ### 4.8 深度学习图像算法
 
 **分类定位网络**
-+ FasterRCNN
- - (RCNN,FastRCNN,SPP到FasterRCNN)[https://shartoo.github.io/RCNN-series/]
++ FasterRCNN: (RCNN,FastRCNN,SPP到FasterRCNN)[https://shartoo.github.io/RCNN-series/]
 + SSD 
    - [SSD 理解 medium](https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
    - [SSD 代码解析](https://shartoo.github.io/SSD_detail/)

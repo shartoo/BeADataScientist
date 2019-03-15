@@ -346,7 +346,7 @@
 ### 4.8 深度学习图像算法
 
 **分类定位网络**
-+ FasterRCNN: (RCNN,FastRCNN,SPP到FasterRCNN)[https://shartoo.github.io/RCNN-series/]
++ FasterRCNN: (RCNN FastRCNN SPP到FasterRCNN)[https://shartoo.github.io/RCNN-series/]
 + SSD 
    - [SSD 理解 medium](https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
    - [SSD 代码解析](https://shartoo.github.io/SSD_detail/)

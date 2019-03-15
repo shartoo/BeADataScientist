@@ -261,6 +261,9 @@
 + EM算法
 + 遗传算法
 
+#### 4.1.4 统计学模型
+
++ [时间序列模型](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 
 ### 4.2 Java Weka使用
 ### 4.3 Java Mahout使用

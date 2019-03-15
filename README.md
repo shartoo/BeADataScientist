@@ -117,9 +117,9 @@
 
 
 + [图像金字塔](https://shartoo.github.io/image-pramid/)
-+ SIFT特征 : [图像SIFT特征](https://shartoo.github.io/SIFT-feature/)
++ [SIFT特征](https://shartoo.github.io/SIFT-feature/)
 + SURF特征
-+ HOG特征
++ [HOG特征](https://shartoo.github.io/HOG-feature/)
 + LAB特征
 + [Haar特征](https://shartoo.github.io/img-haar-feature/)
 + 轮廓

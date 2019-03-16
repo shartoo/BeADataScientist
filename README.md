@@ -363,6 +363,8 @@
 
  - 人脸检测
  - 人脸识别
+ - 人脸检测识别项目
+    - [中科大山世光开源C++人脸检测识别 seetface 代码](http://www.xmind.net/m/wUGM)
 
 + 图像分割算法
   - Unet,3DUnet

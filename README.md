@@ -30,7 +30,32 @@
 
 ### 0.2 公开数据集
 
+#### 0.2.1 离散和连续型普通数据集
 + [uci数据集](http://archive.ics.uci.edu/ml/datasets.html) :一个公开的用于机器学习的数据集，包含几乎所有类别数据，适用于多种机器学习任务
+
+#### 0.2.2 图像数据集
+
+**图像分类**
+
+**目标检测**
+
+**目标跟踪**
+
+**语义分割**
+
+**图像融合**
+
+**超分辨率**
+
+**人脸数据集**
+
++ [CARC](https://bcsiriuschen.github.io/CARC/):[百度网盘](https://pan.baidu.com/s/1HbuOtTyj2vQaok3hXkl_6g) 提取码 dvyn 
++ celaba
+  - [celaba 128x128分辨率原始数据集 官方下载](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+  - [celaba 128x128分辨率原始数据集 百度云下载](https://pan.baidu.com/s/1eSNpdRG#list/path=%2F)
+  - [celaba hq 数据集生成方法](https://zhuanlan.zhihu.com/p/52188519)
+  - [celaba hq 数据集图片格式 128x128,256x256,512x512,1024x1024 谷歌drive下载](https://drive.google.com/drive/folders/11Vz0fqHS2rXDb5pprgTjpD7S2BAJhi1P) 
+  - [celaba hq 官方提供的dat格式下载](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs)
 + 图像数据
   - 图像分类
   - 目标检测
@@ -38,7 +63,7 @@
   - 语义分割
   - 图像融合
   - 超分辨率
-  - 人脸年龄性别: [CARC](https://bcsiriuschen.github.io/CARC/):[百度网盘](https://pan.baidu.com/s/1HbuOtTyj2vQaok3hXkl_6g) 提取码 dvyn 
+  - 人脸年龄性别: 
   - 医疗影像数据
 + 语音数据
    - 语音识别数据集

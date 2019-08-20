@@ -32,7 +32,16 @@
 
 #### 0.2.1 离散和连续型普通数据集
 + [uci数据集](http://archive.ics.uci.edu/ml/datasets.html) :一个公开的用于机器学习的数据集，包含几乎所有类别数据，适用于多种机器学习任务
-
++ 政府公开数据集 
+  - [欧洲政府公开数据集](https://data.europa.eu/euodp/data/dataset)
+  - [美国政府公开数据集](https://www.data.gov/)
+  - [新西兰政府公开数据集](https://catalogue.data.govt.nz/dataset)
+  - [印度政府公开数据集](https://data.gov.in/)
+  - [中国人民银行,社会融资规模、金融统计数据、货币统计、金融机构信贷收支统计、金融市场统计、企业商品价格指数等](www.pbc.gov.cn/diaochatongjisi/116219/index.html)
+  - [国内各类型银行业金融机构](www.cbrc.gov.cn/chinese/jrjg/index.html)
+  - [中国国家统计局](www.stats.gov.cn/tjsj/)
+  - [数据_中国政府网](www.gov.cn/shuju/)
+  
 #### 0.2.2 图像数据集
 
 **图像分类**

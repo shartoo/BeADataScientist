@@ -24,6 +24,13 @@
 
 ## 0.0 数据源
 
+大的数据收录网站
+
++ [github awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
++ [skymind open dataset](https://skymind.ai/wiki/open-datasets)
++ [uci数据集](http://archive.ics.uci.edu/ml/datasets.html)
+
+
 ### 0.1 普通数据集
 
 即被交付给的原始数据集

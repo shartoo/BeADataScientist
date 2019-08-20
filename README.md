@@ -37,13 +37,34 @@
 
 **图像分类**
 
++ [手写字识别MNIST，60000万张分辨率为28x28，数字0-9灰白图识别](http://yann.lecun.com/exdb/mnist/)
++ [CIFAR-10,6万张分辨率为32x32的10个分类的彩色分类图像](http://www.cs.toronto.edu/~kriz/cifar.html)
++ [ImageNet 1400万张，1000多个类别的分类图像，深度学习图像领域的关键比赛数据](http://www.image-net.org/)
++ [coco 微软组织的图像数据，包含了多种图像任务数据](http://cocodataset.org/)
+
 **目标检测**
+
++ [coco 微软组织的图像数据，包含了多种图像任务数据](http://cocodataset.org/)
++ [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 **目标跟踪**
 
++ [OTB50和OTB100](https://link.jianshu.com/?t=http%3A%2F%2Fcvlab.hanyang.ac.kr%2Ftracker_benchmark%2F)
++ [VOT2013-2019](http://www.votchallenge.net/challenges.html)
+
 **语义分割**
 
++ [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
++ [coco 微软组织的图像数据，包含了多种图像任务数据](http://cocodataset.org/)
++ [Cityscapes 城市道路分割](https://www.cityscapes-dataset.com/)
++ [CamVid 城市街道分割](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
++ [KITTI 移动机器人及自动驾驶研究的最受欢迎的数据集之一](http://www.cvlibs.net/datasets/kitti/eval_object.php)
++ [ADE20K_MIT 场景理解的新的数据集包括各种物体（比如人、汽车等）、场景（天空、路面等），150个类别](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
+
+
 **图像融合**
+
++ 
 
 **超分辨率**
 

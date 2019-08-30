@@ -165,6 +165,40 @@
 ## 3 数据分析
 
 ### 3.1 普通数据处理
+
+#### 3.1.1 数据清洗
+#### 3.1.2 数据标准化
+#### 3.1.3 数据映射(降维/升维)
+
+**降维**
+
+1. 线性判别分析
+  + [博客](https://www.cnblogs.com/pinard/p/6244265.html)
+  + 代码
+2. 二次判别分析
+ + [博客](https://www.cnblogs.com/xingshansi/p/6892317.html)
+ + 代码
+
+3. 矩阵分解-PCA
+  + [博客](https://zhuanlan.zhihu.com/p/32412043)
+  + 关键: 用数据里最主要的方面来代替原始数据。连续数据。无监督
+4. 矩阵分解-kernelPCA
+  + [博客](https://zhuanlan.zhihu.com/p/25097144)
+  + 关键: PCA在协方差上变换，kernel PCA在kernel矩阵上变换
+5. 矩阵分解-稀疏PCA
+  + [博客](https://blog.csdn.net/zhoudi2010/article/details/53489319)
+  + 关键: 解决稀疏数据降维
+6. 随机投影-高斯随机投影
+7.流型学习-MDS
+8. [流型学习-ISOMap](https://www.cnblogs.com/wing1995/p/5479036.html)
+9. [流型学习-LocallyLinearEmbedding](https://www.cnblogs.com/pinard/p/6273377.html)
+10. [流型学习-拉普拉斯特征映射LE算法](https://hanyuz1996.github.io/2017/08/20/Laplacian%20Eigenmap/)
+
+
+**升维**
+
+1. [流型学习-tSNE](https://www.jiqizhixin.com/articles/2017-11-13-7)
+
 ### 3.2 大数据处理
 
 + pig

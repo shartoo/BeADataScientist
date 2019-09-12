@@ -93,6 +93,10 @@
   - [celaba hq 数据集生成方法](https://zhuanlan.zhihu.com/p/52188519)
   - [celaba hq 数据集图片格式 128x128,256x256,512x512,1024x1024 谷歌drive下载](https://drive.google.com/drive/folders/11Vz0fqHS2rXDb5pprgTjpD7S2BAJhi1P) 
   - [celaba hq 官方提供的dat格式下载](https://drive.google.com/drive/folders/0B4qLcYyJmiz0TXY1NG02bzZVRGs)
+ 
+ + **年龄和表情数图像据集**
+   - [FACES](https://faces.mpdl.mpg.de/imeji/):包含了 171 young (n = 58), middle-aged (n = 56), and older (n = 57) ，不同表情的图片数据集。
+   
 + 图像数据
   - 图像分类
   - 目标检测

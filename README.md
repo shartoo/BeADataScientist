@@ -27,8 +27,8 @@
 大的数据收录网站
 
 + [github awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-+ [skymind open dataset](https://skymind.ai/wiki/open-datasets)
-+ [uci数据集](http://archive.ics.uci.edu/ml/datasets.html)
++ [skymind open dataset](https://skymind.ai/wiki/open-datasets) : 保罗万象的数据集搜集网，什么类型的数据都有
++ [uci数据集](http://archive.ics.uci.edu/ml/datasets.html) : 数据挖掘概念与技术一书推荐使用的全部数据集，数据挖掘、机器学习经常使用
 
 
 ### 0.1 普通数据集

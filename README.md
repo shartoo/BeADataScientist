@@ -28,7 +28,6 @@
 
 + [github awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 + [skymind open dataset](https://skymind.ai/wiki/open-datasets) : 保罗万象的数据集搜集网，什么类型的数据都有
-+ [uci数据集](http://archive.ics.uci.edu/ml/datasets.html) : 数据挖掘概念与技术一书推荐使用的全部数据集，数据挖掘、机器学习经常使用
 
 
 ### 0.1 普通数据集
@@ -73,14 +72,19 @@
 + [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 + [coco 微软组织的图像数据，包含了多种图像任务数据](http://cocodataset.org/)
 + [Cityscapes 城市道路分割](https://www.cityscapes-dataset.com/)
-+ [CamVid 城市街道分割](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
-+ [KITTI 移动机器人及自动驾驶研究的最受欢迎的数据集之一](http://www.cvlibs.net/datasets/kitti/eval_object.php)
-+ [ADE20K_MIT 场景理解的新的数据集包括各种物体（比如人、汽车等）、场景（天空、路面等），150个类别](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
-
++ [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)：城市街道分割
++ [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php)：移动机器人及自动驾驶研究的最受欢迎的数据集之一，包含7481张训练集，7518张测试集，总计80.256种标签。该网站也列出了历年的分割结果以及对应的方法。
++ [ADE20K_MIT](http://groups.csail.mit.edu/vision/datasets/ADE20K/)：场景理解的新的数据集包括各种物体（比如人、汽车等）、场景（天空、路面等），150个类别，22210张图。
++ [Sift Flow Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/): 包含2688张图片，33个labels，包括Awning（棚） balcony（阳台） bird（鸟） boat（船） bridge（桥）Building（建筑）等每一类都有百张左右。
++ [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html):包含从现有公共数据集中选择的715个图像，具有大约320×240像素，包含label种类：天空，树，道路，草，水，建筑物，山脉和前景物体.
++ [MSRC Dataset](https://pgram.com/dataset/msrc-v1/):240个图像，可识别9个object class。
++ [LIP](http://sysu-hcp.net/lip/):人体图像是从microsoft coco训练集和验证集中裁剪的。定义了19个人体部件或衣服标签，它们是帽子、头发、太阳镜、上衣、衣服、外套、袜子、裤子、手套、围巾、裙子、连体裤、脸、右臂、左臂、右腿、左腿、右脚、右脚鞋、左鞋，以及背景标签。数据集中共有50462张图像，其中包括19081张全身图像、13672张上身图像、403张下身图像、3386张头部丢失的图像、2778张后视图图像和21028张有遮挡的图像。
 
 **图像融合**
 
-+ 
++ [爱分割人脸matting数据集](https://github.com/aisegmentcn/matting_human_datasets):数据量大，包含34427张图像和对应的matting结果图，但是数据标注不够精细
++ [alpha matting官方数据集](http://www.alphamatting.com/datasets.php): 目前已知的最精细的数据集，但是数据量太少，只有27张。
++ [Deep Automatic Portrait Matting](http://xiaoyongshen.me/webpages/webpage_automatting/):包含2000张图像，精度和数量都适中，由于此数据集有很多明显的标注错误，需要进一步人工校正。
 
 **超分辨率**
 
@@ -96,22 +100,15 @@
  
  + **年龄和表情数图像据集**
    - [FACES](https://faces.mpdl.mpg.de/imeji/):包含了 171 young (n = 58), middle-aged (n = 56), and older (n = 57) ，不同表情的图片数据集。
-   
-+ 图像数据
-  - 图像分类
-  - 目标检测
-  - 目标跟踪
-  - 语义分割
-  - 图像融合
-  - 超分辨率
-  - 人脸年龄性别: 
-  - 医疗影像数据
-+ 语音数据
+  
+ + **医疗图像数据集**
+
+#### 0.2.3 语音数据
    - 语音识别数据集
    - 语音合成数据集
 
-+ 公开视频数据
-+ 金融股票数据
+#### 0.2.4 视频数据集
+#### 0.2.5 金融股票数据集
 
 ### 0.3 爬虫数据
 

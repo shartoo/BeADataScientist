@@ -82,6 +82,9 @@
 + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas?pKey=rwbBtYKofke2NeLIvj8j-A&lat=20&lng=0&z=1.5):25,000个高分辨率图像（分为18,000个用于训练，2,000个用于验证，5,000个用于测试）.152个物体类别，100个特定于实例的注释类别。一个多样化的街道级图像数据集，具有像素精确和特定于实例的人类注释，用于理解世界各地的街景。
 + [MIT SceneParse150](http://sceneparsing.csail.mit.edu/):MIT场景解析基准（SceneParse150）为场景解析算法提供标准的训练和评估平台。 该基准测试的数据来自ADE20K数据集。
 + [COCO 2017 Stuff Segmentation Challenge](https://cocodataset.org/#stuff-2019):COCO 2019 图像分割挑战赛。COCO数据集非常全面，可以从其[官方网站](https://cocodataset.org/#download)下载各类图像任务数据集。
++ [INRIA Annotations for Graz-02](https://lear.inrialpes.fr/people/marszalek/data/ig02/):2006年发布的数据集，包含人、自行车、汽车三类，合计超过2000张。
++ [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing):衣服分割图片，2098张高分辨率街头时尚照片，共59个标签。
++ [ApolloScape](http://apolloscape.auto/scene.html):百度提供的场景解析数据集,开放数据集累计提供146,997帧图像数据，总计34类，包含像素级标注和姿态信息，以及对应静态背景深度图像下载。
 
 **图像融合**
 
@@ -90,6 +93,12 @@
 + [Deep Automatic Portrait Matting](http://xiaoyongshen.me/webpages/webpage_automatting/):包含2000张图像，精度和数量都适中，由于此数据集有很多明显的标注错误，需要进一步人工校正。
 
 **超分辨率**
+
++ [Vimeo-90k](http://toflow.csail.mit.edu/):包含89800张从vimeo.com网站上视频截图，图像分辨率为448 x 256
++ [FlyingChairs](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html#flyingchairs)：22872张图像对，2D对应的3D图像，标注ground truth为光流。
++ [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)202599张各个尺寸的图片，此数据集有多类用途。
++ [Waterloo](https://ece.uwaterloo.ca/~k29ma/exploration/)：包含4741张原图，以及从这些图像中抖动生成的94,880图像。
++ [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/):包含800张训练集，100张验证集，100张测试集，总计1000张2k分辨率图像。
 
 **人脸数据集**
 

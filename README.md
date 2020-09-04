@@ -79,6 +79,9 @@
 + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html):包含从现有公共数据集中选择的715个图像，具有大约320×240像素，包含label种类：天空，树，道路，草，水，建筑物，山脉和前景物体.
 + [MSRC Dataset](https://pgram.com/dataset/msrc-v1/):240个图像，可识别9个object class。
 + [LIP](http://sysu-hcp.net/lip/):人体图像是从microsoft coco训练集和验证集中裁剪的。定义了19个人体部件或衣服标签，它们是帽子、头发、太阳镜、上衣、衣服、外套、袜子、裤子、手套、围巾、裙子、连体裤、脸、右臂、左臂、右腿、左腿、右脚、右脚鞋、左鞋，以及背景标签。数据集中共有50462张图像，其中包括19081张全身图像、13672张上身图像、403张下身图像、3386张头部丢失的图像、2778张后视图图像和21028张有遮挡的图像。
++ [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas?pKey=rwbBtYKofke2NeLIvj8j-A&lat=20&lng=0&z=1.5):25,000个高分辨率图像（分为18,000个用于训练，2,000个用于验证，5,000个用于测试）.152个物体类别，100个特定于实例的注释类别。一个多样化的街道级图像数据集，具有像素精确和特定于实例的人类注释，用于理解世界各地的街景。
++ [MIT SceneParse150](http://sceneparsing.csail.mit.edu/):MIT场景解析基准（SceneParse150）为场景解析算法提供标准的训练和评估平台。 该基准测试的数据来自ADE20K数据集。
++ [COCO 2017 Stuff Segmentation Challenge](https://cocodataset.org/#stuff-2019):COCO 2019 图像分割挑战赛。COCO数据集非常全面，可以从其[官方网站](https://cocodataset.org/#download)下载各类图像任务数据集。
 
 **图像融合**
 

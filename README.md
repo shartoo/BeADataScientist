@@ -69,9 +69,8 @@
 
 **语义分割**
 
-+ [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
-+ [coco 微软组织的图像数据，包含了多种图像任务数据](http://cocodataset.org/)
-+ [Cityscapes 城市道路分割](https://www.cityscapes-dataset.com/)
++ [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/):分割任务中VOC2012的trainval包含07-11年的所有对应图片， test只包含08-11。trainval有 2913张图片共6929个物体
++ [Cityscapes 城市道路分割](https://www.cityscapes-dataset.com/)：该数据集包含images_base和annotations_base分别对应这文件夹leftImg8bit（5,030 items, totalling 11.6 GB，factually 5000 items）和gtFine（30,030 items, totalling 1.1 GB）。里面都包含三个文件夹：train、val、test。总共5000张精细释，2975张训练图，500张验证图和1525张测试图。在leftImg8bit/train下有18个子文件夹对应德国的16个城市，法国一个城市和瑞士一个城市
 + [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)：城市街道分割
 + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php)：移动机器人及自动驾驶研究的最受欢迎的数据集之一，包含7481张训练集，7518张测试集，总计80.256种标签。该网站也列出了历年的分割结果以及对应的方法。
 + [ADE20K_MIT](http://groups.csail.mit.edu/vision/datasets/ADE20K/)：场景理解的新的数据集包括各种物体（比如人、汽车等）、场景（天空、路面等），150个类别，22210张图。
